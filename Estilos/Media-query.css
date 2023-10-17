@@ -34,7 +34,7 @@ roxo: #5f2c82
         background-image: linear-gradient(to top, #49a09d , #5f2c82);
     }
     section#login {
-        width: 90vw;
+        width: 85vw;
     }
     section#login > div#Imagem{
         float: left;
