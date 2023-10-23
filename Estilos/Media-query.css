@@ -8,12 +8,13 @@ Azul: #49a09d
 roxo: #5f2c82
 */
 
-@media screen and (min-width:668px) and (max-width: 992px) {
+@media screen and (min-width:770px) and (max-width: 992px) {
     body{
         background-image: linear-gradient(to top, #49a09d , #5f2c82);
     }
     section#login {
-        width: 90vw;
+        width: 80vw;
+        
     }
     section#login > div#Imagem{
         float: left;
