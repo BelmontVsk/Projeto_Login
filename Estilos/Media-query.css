@@ -8,12 +8,13 @@ Azul: #49a09d
 roxo: #5f2c82
 */
 
-@media screen and (min-width:770px) and (max-width: 992px) {
+@media screen and (min-width:668px) and (max-width: 992px) {
     body{
         background-image: linear-gradient(to top, #49a09d , #5f2c82);
     }
     section#login {
         width: 80vw;
+        height: 300px;
         
     }
     section#login > div#Imagem{
@@ -39,6 +40,7 @@ roxo: #5f2c82
     }
     section#login {
         width: 85vw;
+        height: 450px;
     }
     section#login > div#Imagem{
         float: left;
@@ -72,6 +74,7 @@ roxo: #5f2c82
     }
     div#formulario > p{
         font-size: 1.2em;
+        margin: 5px 0px;
     }
 }
 @media screen and (min-width:1900px) and (max-width: 3900px) {
@@ -94,5 +97,6 @@ roxo: #5f2c82
     }
     div#formulario > p{
         font-size: 1.5em;
+        margin: 5px 0px;
     }
 }
